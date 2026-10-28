@@ -1,6 +1,6 @@
 ## 👋 Olá! Bem-vindo ao meu GitHub 
   <br/>
-Eu sou o Bruno, sou um Programador Front End, atualmente estou aprendendo e criando projetos com:
+Eu sou o Bruno, sou um Programador Back End, atualmente estou aprendendo e criando projetos com:
   <br/>
   <br/>
   - HTML, CSS e iniciando o aprendizado em JavaScript e React.
